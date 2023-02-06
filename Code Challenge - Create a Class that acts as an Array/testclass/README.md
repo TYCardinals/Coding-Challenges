@@ -1,0 +1,1 @@
+Create a class (called mySet) that acts just like an array (push and pop) but will only add things if they aren’t already in the array. Also add a display() method that uses console.table.
